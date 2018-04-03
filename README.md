@@ -12,6 +12,4 @@ externa de fontes, chamada [Fontello](https://goo.gl/pmGz9b) da qual o conteúdo
 - Editado o README do projeto com instruções sobre o desenvolvimento dos desenvolvedores.
 
 # Porque devemos utilizar frameworks ?
-- [Motivos](https://goo.gl/MRp17M)
-
-> **:** [Eric Douglas](https://github.com/ericdouglas)
+- [Saiba porque utilizamos :)](https://goo.gl/MRp17M)
