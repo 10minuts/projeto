@@ -2,7 +2,7 @@
 
 ** Projeto realizado com apoio de Gama Academy.**
 
-![JobCodes](img/codejobs.png)
+![JobCodes](https://goo.gl/Cw6jyo)
 
 ## Desenvolvimento do Footer *** Rodapé da Página ***
 
@@ -10,5 +10,5 @@
 externa de fontes, chamada [Fontello](https://goo.gl/pmGz9b) da qual o conteúdo é relacionado a ícones de logos, sendo referenciados na estrutura HTML do site, diminuindo o tempo de carregando de páginas e consumindo pouco recursos do servidor.
 - Editado o README do projeto com instruções sobre o desenvolvimento dos desenvolvedores.
 
-# Saiba mais sobre a utilização de frameworks, porque utilizamos ?
+# Porque devemos utilizar frameworks ?
 - [Motivos](https://goo.gl/MRp17M)
